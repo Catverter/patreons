@@ -1,1 +1,21 @@
-{}
+{
+  "schemaVersion": "1.0",
+  "id": "catverter.patreons",
+  "displayName": "Catverter Patreon Committee",
+  "version": "2026.07.21",
+  "members": [
+    {
+      "id": "professor-biscuit",
+      "kind": "honorary",
+      "tier": "$3",
+      "name": "Professor Biscuit",
+      "title": "Deputy Auditor of Suspicious Kilograms",
+      "description": "Reviews human numbers with visible disappointment.",
+      "country": "Italy",
+      "city": "Rome",
+      "birthday": "2021-04-12",
+      "image": "photos/Test01.png",
+      "sortOrder": 100
+    }
+  ]
+}
