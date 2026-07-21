@@ -1,2 +1,2 @@
 # patreons
-The official Honorary Committee Members
+This repository contains community-contributed Catverter profile data and cat names.
